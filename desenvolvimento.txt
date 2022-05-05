@@ -1,0 +1,22 @@
+Início
+Receba o nome do usuário
+Informe para o usuário fazer cadastro
+
+Cadastro
+Crie um objeto com as seguintes propriedades
+Nome 
+Senha
+
+Login
+Faça com que o possa haver um login a partir desse objeto
+
+Ao logar
+Mostrar um cardápio de lanches com três lanches
+Receber o pedido
+Mostrar o cardápio de bebidas com três bebidas
+Receber o pedido
+
+informar ao sistema qual foi o pedido
+
+
+
